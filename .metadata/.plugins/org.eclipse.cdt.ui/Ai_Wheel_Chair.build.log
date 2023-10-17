@@ -1,0 +1,10 @@
+13:34:27 **** Incremental Build of configuration Debug for project Ai_Wheel_Chair ****
+make -j16 all 
+arm-none-eabi-size   Ai_Wheel_Chair.elf 
+   text	   data	    bss	    dec	    hex	filename
+  36968	    536	  24440	  61944	   f1f8	Ai_Wheel_Chair.elf
+Finished building: default.size.stdout
+ 
+
+13:34:28 Build Finished. 0 errors, 0 warnings. (took 393ms)
+
